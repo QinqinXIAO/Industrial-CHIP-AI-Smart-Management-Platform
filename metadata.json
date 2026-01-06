@@ -1,0 +1,8 @@
+{
+  "name": "1.智能工艺集成Industrial AI Smart Management Platform",
+  "description": "A comprehensive AI-driven platform for ALD process recommendation, wet processing knowledge management, maintenance ticket auditing, and intelligent warehouse management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
